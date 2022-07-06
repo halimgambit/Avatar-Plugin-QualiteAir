@@ -1,0 +1,18 @@
+{
+	"modules": { 
+		"QualiteAir": {
+			"version": "1.0",
+			"name": "qualitedelair",
+			"tts": {
+				"Salon": "J'ai allumé la lumière",
+				"Cuisine": "J'ai allumé les spots"
+			},
+			"clients": {
+				"Salon": 60,
+				"Cuisine": 50
+			},
+			"rules": ["outdoor * air * quality","outdoor air quality","what is the external air quality","give me the external air quality"]
+		}
+	}
+}
+			
