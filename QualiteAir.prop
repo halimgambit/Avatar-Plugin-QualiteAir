@@ -1,0 +1,11 @@
+{
+	"modules": { 
+		"QualiteAir": {
+			"version": "1.0",
+			"name": "qualitedelair",
+			"key": "",
+			"rules": ["outdoor * air * quality","outdoor air quality","what is the external air quality","give me the external air quality"]
+		}
+	}
+}
+			
